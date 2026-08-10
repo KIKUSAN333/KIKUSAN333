@@ -1,3 +1,11 @@
+<p align="right">
+  <sub>
+    Language:
+    <strong>English</strong> /
+    <a href="./README.ja.md">日本語</a>
+  </sub>
+</p>
+
 # Hi there! 👋
 <p align="center">
   <img src="https://count.getloli.com/@KIKU333?name=KIKU333&theme=morden-num" />
@@ -33,9 +41,9 @@ I am a member of [G^2, a game development circle](https://g-2-yama.github.io), w
 
 ### Familiar
 
-[![My Skills](https://skillicons.dev/icons?i=arduino,c,css,django,docker,eclipse,gitlab,html,java,js,py,r,unreal)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=arduino,astro,c,css,django,docker,eclipse,gitlab,html,java,js,py,r,unreal)](https://skillicons.dev)
 
-**Arduino · C · CSS · Django · Docker · Eclipse · GitLab · HTML · Java · JavaScript · Python · R · Unreal Engine**
+**Arduino · Astro · C · CSS · Django · Docker · Eclipse · GitLab · HTML · Java · JavaScript · Python · R · Unreal Engine**
 
 <br />
 
